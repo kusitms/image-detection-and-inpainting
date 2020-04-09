@@ -15,12 +15,12 @@
 선행연구들
 -
 * image detection 알고리즘 (Mask-RCNN) 
-- https://reyrei.tistory.com/11
+  - https://reyrei.tistory.com/11
 
 
 
 description of available dataset 
 -
 * 데이터셋 (coco) 
-- http://cocodataset.org/#download
-- https://ukayzm.github.io/cocodataset/
+  - http://cocodataset.org/#download
+  - https://ukayzm.github.io/cocodataset/
